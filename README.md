@@ -1,1 +1,1 @@
-# tut budet kod raboti robota na wi-fi
+# Тут будет код для курсовой работы по ВСРВ :(
