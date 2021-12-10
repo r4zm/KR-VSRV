@@ -7,7 +7,7 @@ GPIO.setwarnings(False)
 #set GPIO numbering mode and define output pins
 GPIO.setmode(GPIO.BOARD)
 
-motor1a = 7
+motor1a = 9
 motor1b = 11
 motor1e = 22
 
