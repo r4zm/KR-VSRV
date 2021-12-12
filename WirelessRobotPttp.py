@@ -62,7 +62,7 @@ try:
                 GPIO.output(motor2a,GPIO.HIGH)
                 GPIO.output(motor2b,GPIO.LOW)
                 #GPIO.output(motor2e,GPIO.HIGH)
-                print "tern left"
+                print "turn left"
             elif char == 10:
                 GPIO.output(motor1a,GPIO.LOW)
                 GPIO.output(motor1b,GPIO.LOW)
