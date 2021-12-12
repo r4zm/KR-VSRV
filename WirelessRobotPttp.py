@@ -6,7 +6,7 @@ GPIO.setwarnings(False)
 
 GPIO.setmode(GPIO.BOARD)
 
-motor1a = 9
+motor1a = 7
 motor1b = 11
 motor1e = 22
 
